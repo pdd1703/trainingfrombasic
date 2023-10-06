@@ -1,0 +1,122 @@
+form {
+    width: 470px;
+    height: 265px;
+    background-color: #FFFCAD;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.title-item {
+    display: block;
+    font-size: 1.17em;
+    justify-content: center; 
+    align-items: center;
+    color: #103FFB;
+    margin-top: -16px;
+    height: 25px;
+    margin-left: 4px;
+    font-size: 18px;
+}
+.regis-title {
+    margin-left: -14px;
+    width: 499px;
+    height: 20px;
+    margin-bottom: 8px;
+    background-color: #D5FCD7;
+}
+body {
+    background-color: #D6FEFF;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.field-1 {
+    display: flex;
+    height: 30px;
+}
+.label-1 {
+    color: #354EA8;
+    margin-right: 35px;
+}
+.input-1 {
+    width: 190px;
+    border: 2px solid #DCD9D2;   
+    border-width: 2px;
+    border-style: inset;
+}
+.label-2 {
+    color: #354EA8;
+    margin-right: 32px;
+}
+.input-2 {
+    width: 100px;
+    border: 2px solid #DCD9D2;   
+    border-width: 2px;
+    border-style: inset;
+}
+.label-3 {
+    color: #354EA8;
+    margin-right: 50px;
+    margin-bottom: 38px;
+    height: 16px;
+}
+.input-3 {
+    width: 150px;
+    height: 50px;
+    border: 2px solid #DCD9D2;   
+    border-width: 2px;
+    border-style: inset;
+}
+.field-2 {
+    display: flex;
+    height: 30px;
+}
+.label-4 {
+    color: #354EA8;
+    margin-right: 59px;
+}
+.input-4 {
+    width: 120px;
+    border: 2px solid #DCD9D2;   
+    border-width: 2px;
+    border-style: inset;
+}
+.label-5 {
+    color: #354EA8;
+    margin-right: 30px;
+}
+.input-5 {
+    width: 120px;
+    border: 2px solid #DCD9D2;   
+    border-width: 2px;
+    border-style: inset;
+}
+.button {
+    margin-left: 97px;
+}
+.retype, .submit {
+    width: 80px;
+    height: 20px;
+    color: #070605;
+    background-color: #DCD9D2 ;
+    border: 2px solid #DCD9D2;   
+    border-width: 2px;
+    border-style: inset;
+}
+.select-class {
+    width: 98px;
+    height: 22px;
+    border: 2px solid #DCD9D2;   
+    border-width: 2px;
+    border-style: inset;
+}
+.label-6 {
+    color: #354EA8;
+    margin-right: 71px;
+}
+.check-gender {
+    margin-left: 11 px;
+    height: 11px;
+}
+

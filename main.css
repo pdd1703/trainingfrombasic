@@ -1,0 +1,111 @@
+form {
+    width: 470px;
+    height: 173px;
+    background-color: #FFFFFF;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.title-item {
+    display: flex;
+    font-size: 1.17em;
+    justify-content: center; 
+    align-items: center;
+    color: #FFFFFF;
+    margin-top: -16px;
+    height: 25px;
+}
+.my-favou {
+    margin-left: -14px;
+    width: 499px;
+    height: 22px;
+    margin-bottom: 4px;
+    background-color: #FF4D1C;
+}
+body {
+    background-color: #D6FEFF;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.label-1 {
+    color: #4058BB;
+    margin-left: 50px;
+    margin-right: 10px;
+}
+.label-2 {
+    color: #4058BB;
+    margin-left: 74px;
+    margin-right: 10px;
+}
+.label-3 {
+    color: #4058BB;
+    margin-left: 58px;
+    margin-right: 10px;
+}
+.field-1 {
+    display: flex;
+    height: 30px;
+}
+.input-1 {
+    width: 200px;
+    border: 2px solid #DCD9D2;   
+    border-width: 2px;
+    border-style: inset;
+}
+.input-2 {
+    width: 130px;
+    border: 2px solid #DCD9D2;   
+    border-width: 2px;
+    border-style: inset;
+}
+.cb-1 {
+    height: 10px;
+    margin-top: 7px;
+    color: #FF8B5D;
+}
+
+input[type="checkbox"] {
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.3)
+}
+input[type="checkbox"]:checked {
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); 
+}
+.line-checkbox-1 {
+    display: flex;
+    height: 30px;
+    margin-top: -1px;
+}
+
+.line-checkbox {
+    margin-left: 1px;
+    width: 107px;
+}
+.add-line-checkbox {
+    margin-left: 121px;
+    margin-top: -1px;
+}
+.button {
+    margin-left: 120px;
+}
+.submit {
+    width: 100px;
+    height: 20px;
+    color: #070605;
+    background-color: #DCD9D2 ;
+    border: 2px solid #DCD9D2;   
+    border-width: 2px;
+    border-style: inset;
+}
+.retype {
+    width: 80px;
+    height: 20px;
+    color: #070605;
+    background-color: #DCD9D2 ;
+    border: 2px solid #DCD9D2;   
+    border-width: 2px;
+    border-style: inset;
+    
+}
+
